@@ -1,3 +1,5 @@
+![GPL3_Graphic](url)
+
 GNU General Public License
 ==========================
 
@@ -595,5 +597,5 @@ License. But first, please read
 &lt;<http://www.gnu.org/philosophy/why-not-lgpl.html>&gt;.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzcwNzYzMTldfQ==
+eyJoaXN0b3J5IjpbLTIyMzgxNDMzMV19
 -->

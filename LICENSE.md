@@ -1,4 +1,3 @@
-![GPLv3_Logo](https://github.com/Rumspringa2024/Rumspringa2024.github.io/blob/ad14e0f044a9a58c20aaff4bb05a75564a09bda0/assets/img/GPLv3_Logo.svg?raw=true =300x150)
 GNU General Public License
 ==========================
 
@@ -594,7 +593,3 @@ more useful to permit linking proprietary applications with the library. If this
 what you want to do, use the GNU Lesser General Public License instead of this
 License. But first, please read
 &lt;<http://www.gnu.org/philosophy/why-not-lgpl.html>&gt;.
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTgzNTA2MSwtMjIzODE0MzMxXX0=
--->

@@ -76,12 +76,10 @@
           facts[Math.floor(Math.random() * facts.length)]
       }
     </script>
-    <br>
-    <a href="http://worlds.simcity.com/">Simcity server status</a>
-    <br>
+    <a href="index.html">About us</a>
   </body>
 </html>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0MTUwNzcwLDI0Njk4NDU4OV19
+eyJoaXN0b3J5IjpbMjQ2OTg0NTg5XX0=
 -->
